@@ -10,7 +10,6 @@ It includes **organized folders with Dart programs** for each topic and an easy-
 
 ![Dart Roadmap](https://raw.githubusercontent.com/YourUsername/Learn-Dart/main/assets/dart-roadmap.png)  
 
-> You can replace this image link with your own diagram in `assets/dart-roadmap.png`.
 
 ---
 
