@@ -229,13 +229,18 @@ It includes **organized folders with Dart programs** for each topic and an easy-
 
 ---
 
-## Tags 🏷️
-
+## Tags & Author 🏷️
 <p align="center">
   <a href="https://github.com/topics/dart"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
   <a href="https://github.com/topics/programming"><img src="https://img.shields.io/badge/Programming-F7DF1E?style=for-the-badge&logo=programming&logoColor=black" alt="Programming"/></a>
+  <a href="https://github.com/topics/flutter"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
   <a href="https://github.com/topics/roadmap"><img src="https://img.shields.io/badge/Roadmap-4CAF50?style=for-the-badge&logo=roadmap&logoColor=white" alt="Roadmap"/></a>
   <a href="https://github.com/topics/learning"><img src="https://img.shields.io/badge/Learning-FF6F61?style=for-the-badge&logo=learning&logoColor=white" alt="Learning"/></a>
-  <a href="https://github.com/topics/development"><img src="https://img.shields.io/badge/Dev-8E44AD?style=for-the-badge&logo=dev&logoColor=white" alt="Development"/></a>
+  <a href="https://github.com/topics/development"><img src="https://img.shields.io/badge/Development-8E44AD?style=for-the-badge&logo=dev&logoColor=white" alt="Development"/></a>
+  <a href="https://github.com/topics/coding"><img src="https://img.shields.io/badge/Coding-1ABC9C?style=for-the-badge&logo=code&logoColor=white" alt="Coding"/></a>
+  <a href="https://github.com/topics/education"><img src="https://img.shields.io/badge/Education-F39C12?style=for-the-badge&logo=education&logoColor=white" alt="Education"/></a>
+  <a href="https://github.com/SadiaLiaqat"><img src="https://img.shields.io/badge/Author-Sadia%20Liaqat-E74C3C?style=for-the-badge&logo=github&logoColor=white" alt="Author Sadia Liaqat"/></a>
+  <a href="https://github.com/topics/github"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
+
 
