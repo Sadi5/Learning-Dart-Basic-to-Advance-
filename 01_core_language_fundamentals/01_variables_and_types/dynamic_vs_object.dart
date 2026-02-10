@@ -4,13 +4,13 @@ TOPIC NAME:
 dynamic vs Object
 ========================================
 
-DEFINITION (Simple English):
+DEFINITION:
 ----------------------------------------
 dynamic allows changing the type at runtime,
 while Object is the base class of all types
 and is more strict.
 
-CONCEPT + REAL LIFE EXAMPLE (Roman Urdu):
+CONCEPT + REAL LIFE EXAMPLE:
 ----------------------------------------
 dynamic variable ka type change ho sakta hai.
 Object variable sab kuch hold kar sakta hai,

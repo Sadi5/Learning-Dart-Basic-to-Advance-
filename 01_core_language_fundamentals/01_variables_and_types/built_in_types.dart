@@ -4,13 +4,13 @@ TOPIC NAME:
 Built-in Data Types
 ========================================
 
-DEFINITION (Simple English):
+DEFINITION:
 ----------------------------------------
 Built-in data types are basic types
 provided by Dart to store different kinds
 of values like numbers, text, and collections.
 
-CONCEPT + REAL LIFE EXAMPLE (Roman Urdu):
+CONCEPT + REAL LIFE EXAMPLE:
 ----------------------------------------
 Data types batate hain ke variable ke andar
 kis type ka data store hoga.

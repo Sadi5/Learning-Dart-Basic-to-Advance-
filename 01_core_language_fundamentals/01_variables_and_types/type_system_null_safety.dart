@@ -4,7 +4,7 @@ TOPIC NAME:
 Type System & Sound Null Safety
 ========================================
 
-DEFINITION (Simple English):
+DEFINITION:
 ----------------------------------------
 Dart has a strong type system which means
 every variable has a specific type.
@@ -12,7 +12,7 @@ Sound null safety ensures that a variable
 cannot have a null value unless it is
 explicitly allowed.
 
-CONCEPT + REAL LIFE EXAMPLE (Roman Urdu):
+CONCEPT + REAL LIFE EXAMPLE:
 ----------------------------------------
 Type system ka matlab hai ke har cheez ka
 type clear hota hai, jaise int, String, bool.

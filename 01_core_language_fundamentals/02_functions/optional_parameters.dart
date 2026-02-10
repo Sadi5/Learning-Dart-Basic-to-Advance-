@@ -4,12 +4,12 @@ TOPIC NAME:
 Optional Parameters
 ========================================
 
-DEFINITION (Simple English):
+DEFINITION:
 ----------------------------------------
 Optional parameters are parameters that
 are not required when calling a function.
 
-CONCEPT + REAL LIFE EXAMPLE (Roman Urdu):
+CONCEPT + REAL LIFE EXAMPLE:
 ----------------------------------------
 Optional cheez zaroori nahi hoti.
 Agar value na do, function phir bhi chale.

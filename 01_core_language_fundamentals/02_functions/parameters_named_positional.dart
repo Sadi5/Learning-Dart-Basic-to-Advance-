@@ -4,7 +4,7 @@ TOPIC NAME:
 Named vs Positional Parameters
 ========================================
 
-DEFINITION (Simple English):
+DEFINITION:
 ----------------------------------------
 Positional parameters depend on order,
 named parameters depend on names.

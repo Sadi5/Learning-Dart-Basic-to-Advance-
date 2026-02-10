@@ -4,13 +4,13 @@ TOPIC NAME:
 Type Inference
 ========================================
 
-DEFINITION (Simple English):
+DEFINITION:
 ----------------------------------------
 Type inference means Dart automatically
 figures out the data type of a variable
 based on the assigned value.
 
-CONCEPT + REAL LIFE EXAMPLE (Roman Urdu):
+CONCEPT + REAL LIFE EXAMPLE:
 ----------------------------------------
 Jab hum var use karte hain, Dart khud
 samajh leta hai ke variable ka type kya hai.

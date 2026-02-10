@@ -4,12 +4,12 @@ TOPIC NAME:
 Function Declaration
 ========================================
 
-DEFINITION (Simple English):
+DEFINITION:
 ----------------------------------------
 A function is a block of code that performs
 a specific task and can be reused.
 
-CONCEPT + REAL LIFE EXAMPLE (Roman Urdu):
+CONCEPT + REAL LIFE EXAMPLE:
 ----------------------------------------
 Function aik machine ki tarah hota hai jo
 input leta hai aur output deta hai.

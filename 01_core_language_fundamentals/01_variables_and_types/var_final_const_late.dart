@@ -4,13 +4,13 @@ TOPIC NAME:
 var, final, const, late
 ========================================
 
-DEFINITION (Simple English):
+DEFINITION:
 ----------------------------------------
 var, final, const, and late are used to
 declare variables with different rules
 about changing values and initialization.
 
-CONCEPT + REAL LIFE EXAMPLE (Roman Urdu):
+CONCEPT + REAL LIFE EXAMPLE:
 ----------------------------------------
 var normal variable hota hai.
 final aik dafa value assign hoti hai.
